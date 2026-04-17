@@ -1,8 +1,0 @@
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/CMakeFiles/pokerbot.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/libs/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/libs/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/libs/skeleton/CMakeFiles/skeleton.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/libs/skeleton/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Shivam/Documents/PokerBots-IIITA/submission/IIT2024215/cpp_bot/build/libs/skeleton/CMakeFiles/rebuild_cache.dir

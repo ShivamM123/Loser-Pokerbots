@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/pokerbot.dir/src/main.cpp.o -o pokerbot  libs/skeleton/libskeleton.a /usr/lib/x86_64-linux-gnu/libboost_system.a 
